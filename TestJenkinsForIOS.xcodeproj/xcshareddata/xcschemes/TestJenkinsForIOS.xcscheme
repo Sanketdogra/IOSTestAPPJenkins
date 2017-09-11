@@ -28,26 +28,6 @@
       selectedLauncherIdentifier = "Xcode.DebuggerFoundation.Launcher.LLDB"
       shouldUseLaunchSchemeArgsEnv = "YES">
       <Testables>
-         <TestableReference
-            skipped = "NO">
-            <BuildableReference
-               BuildableIdentifier = "primary"
-               BlueprintIdentifier = "A67A769E1F59D690006F9CFF"
-               BuildableName = "TestJenkinsForIOSTests.xctest"
-               BlueprintName = "TestJenkinsForIOSTests"
-               ReferencedContainer = "container:TestJenkinsForIOS.xcodeproj">
-            </BuildableReference>
-         </TestableReference>
-         <TestableReference
-            skipped = "NO">
-            <BuildableReference
-               BuildableIdentifier = "primary"
-               BlueprintIdentifier = "A67A76A91F59D690006F9CFF"
-               BuildableName = "TestJenkinsForIOSUITests.xctest"
-               BlueprintName = "TestJenkinsForIOSUITests"
-               ReferencedContainer = "container:TestJenkinsForIOS.xcodeproj">
-            </BuildableReference>
-         </TestableReference>
       </Testables>
       <MacroExpansion>
          <BuildableReference
