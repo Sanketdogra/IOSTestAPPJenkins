@@ -207,7 +207,6 @@
 						CreatedOnToolsVersion = 8.3.3;
 						DevelopmentTeam = 3N6FQ343XA;
 						ProvisioningStyle = Automatic;
-						TestTargetID = A67A768A1F59D690006F9CFF;
 					};
 					A67A76A91F59D690006F9CFF = {
 						CreatedOnToolsVersion = 8.3.3;
@@ -460,14 +459,12 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
-				BUNDLE_LOADER = "$(TEST_HOST)";
 				DEVELOPMENT_TEAM = 3N6FQ343XA;
 				INFOPLIST_FILE = TestJenkinsForIOSTests/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = ca.bell.selfserve.TestJenkinsForIOSTests;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 3.0;
-				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/TestJenkinsForIOS.app/TestJenkinsForIOS";
 			};
 			name = Debug;
 		};
@@ -475,14 +472,12 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
-				BUNDLE_LOADER = "$(TEST_HOST)";
 				DEVELOPMENT_TEAM = 3N6FQ343XA;
 				INFOPLIST_FILE = TestJenkinsForIOSTests/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = ca.bell.selfserve.TestJenkinsForIOSTests;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 3.0;
-				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/TestJenkinsForIOS.app/TestJenkinsForIOS";
 			};
 			name = Release;
 		};
