@@ -427,7 +427,7 @@
 				CODE_SIGN_ENTITLEMENTS = TestJenkinsForIOS/TestJenkinsForIOS.entitlements;
 				CODE_SIGN_IDENTITY = "iPhone Developer: Abhishek Nautiyal (X65454Z3B3)";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
-				DEVELOPMENT_TEAM = "";
+				DEVELOPMENT_TEAM = 3N6FQ343XA;
 				INFOPLIST_FILE = TestJenkinsForIOS/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = ca.bell.selfserve.TestJenkinsForIOS;
@@ -445,7 +445,7 @@
 				CODE_SIGN_ENTITLEMENTS = TestJenkinsForIOS/TestJenkinsForIOS.entitlements;
 				CODE_SIGN_IDENTITY = "iPhone Developer: Abhishek Nautiyal (X65454Z3B3)";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
-				DEVELOPMENT_TEAM = "";
+				DEVELOPMENT_TEAM = 3N6FQ343XA;
 				INFOPLIST_FILE = TestJenkinsForIOS/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = ca.bell.selfserve.TestJenkinsForIOS;
