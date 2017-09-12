@@ -45,6 +45,16 @@
       debugDocumentVersioning = "YES"
       debugServiceExtension = "internal"
       allowLocationSimulation = "YES">
+      <BuildableProductRunnable
+         runnableDebuggingMode = "0">
+         <BuildableReference
+            BuildableIdentifier = "primary"
+            BlueprintIdentifier = "A67A768A1F59D690006F9CFF"
+            BuildableName = "TestJenkinsForIOS.app"
+            BlueprintName = "TestJenkinsForIOS"
+            ReferencedContainer = "container:TestJenkinsForIOS.xcodeproj">
+         </BuildableReference>
+      </BuildableProductRunnable>
       <AdditionalOptions>
       </AdditionalOptions>
    </LaunchAction>
@@ -54,6 +64,15 @@
       savedToolIdentifier = ""
       useCustomWorkingDirectory = "NO"
       debugDocumentVersioning = "YES">
+      <MacroExpansion>
+         <BuildableReference
+            BuildableIdentifier = "primary"
+            BlueprintIdentifier = "A67A768A1F59D690006F9CFF"
+            BuildableName = "TestJenkinsForIOS.app"
+            BlueprintName = "TestJenkinsForIOS"
+            ReferencedContainer = "container:TestJenkinsForIOS.xcodeproj">
+         </BuildableReference>
+      </MacroExpansion>
    </ProfileAction>
    <AnalyzeAction
       buildConfiguration = "Debug">
